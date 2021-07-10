@@ -3,9 +3,9 @@ package com.company;
 public class Replace {
     public static void main(String args[]){
 
-        String str="hello guys";
+        String str="SURESH RAJA";
 
-        String res=str.replace("hello","hi");
+        String res=str.replace("SURESH","SUBEESH");
 
         System.out.println(res);
 
